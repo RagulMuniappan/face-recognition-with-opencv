@@ -4,14 +4,14 @@ A real-time face recognition system that detects, trains, and recognizes human f
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 This project demonstrates a computer vision–based face recognition system.  
 It captures facial images through a webcam, creates a dataset, trains a recognition model, and identifies known or unknown faces in real time.
 
 ---
 
-## ✨ Features
+## Features
 
 - Real-time face detection  
 - Automatic dataset creation  
@@ -21,7 +21,7 @@ It captures facial images through a webcam, creates a dataset, trains a recognit
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python  
 - OpenCV  
@@ -30,12 +30,12 @@ It captures facial images through a webcam, creates a dataset, trains a recognit
 
 ---
 
-## ⚙ How to Run
+## How to Run
 
 1. Capture face images (create dataset):
    ```bash
    python create_data.py
    
 2. Train the model and recognize faces:
-  ```bash
+   ```bash
    python main.py
